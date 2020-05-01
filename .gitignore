@@ -1,5 +1,5 @@
 /discord/*
-*/__pycache__
+*/__pycache__/
 main.py
 !/discord/ext/
 /discord/ext/*
