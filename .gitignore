@@ -1,0 +1,7 @@
+/discord/*
+*/__pycache__
+main.py
+!/discord/ext/
+/discord/ext/*
+!/discord/ext/handler
+
